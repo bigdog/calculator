@@ -1,5 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+[![Build Status](https://urbancoyote.visualstudio.com/CalcTest/_apis/build/status/bigdog.calculator?branchName=master)](https://urbancoyote.visualstudio.com/CalcTest/_build/latest?definitionId=6&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
